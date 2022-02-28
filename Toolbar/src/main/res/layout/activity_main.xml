@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+        android:id="@+id/myToolbar"
+        android:layout_width="48dp"
+        android:layout_height="?android:actionBarSize"
+        android:background="@color/purple_500"
+        app:layout_constraintTop_toTopOf="parent" />
+
+        <include layout="@layout/toolbarrreutilizable"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
