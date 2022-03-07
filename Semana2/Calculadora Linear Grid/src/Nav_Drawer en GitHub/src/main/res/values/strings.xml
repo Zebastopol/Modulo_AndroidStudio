@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavDrawer_GH</string>
+    <string name="Cabecera_de_usuario">Cabecera de usuario</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="NavDrawer_GH">NavDrawer_GH</string>
+</resources>
